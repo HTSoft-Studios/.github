@@ -3,9 +3,9 @@
 Here at HTSoft the possibilities are endless.
 
 # Here is what we do 💻🚀
-  * Helpout small content creators build their first website.
-  * We make games with batch.
-  * We fully open source all of our projects.
+  * Helpout small content creators build their first website!
+  * We make games!
+  * We fully open source all of our projects!
   * And much more!
 
 # Join our Discord!
