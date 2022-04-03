@@ -1,4 +1,4 @@
-# <img style="float: left;" height=256px src="./circlehts.png"> htsoft </img>
+# <img height=256px src="./circlehts.png"></img>
 
 ```html
 <head>
