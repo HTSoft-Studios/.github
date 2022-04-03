@@ -3,16 +3,13 @@
 ```html
 <head>
      <title>Thank you for visiting the HTSoft GitHub Page! 👋</title>
+     <meta name="description" content="Here at HTSoft the possibilities are endless.">
 </head>
 ```
 
-# Welcome to the HTSoft GitHub Page! 👋
-
-Here at HTSoft the possibilities are endless.
-
-# Here is what we do 💻🚀
-  * Helpout small content creators build their first website!
-  * We make games!
+# Here is what we 👨‍💻🚀
+  * We helpout small content creators build their first website!
+  * We make fun and lovely games!
   * We fully open source all of our projects!
   * And much more!
 
