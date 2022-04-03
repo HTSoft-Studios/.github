@@ -16,4 +16,4 @@ Here at HTSoft the possibilities are endless.
   * We fully open source all of our projects!
   * And much more!
 
-# <a href="https://discord.gg/N4FUBaMX2b"><img style="display: flex;" src="https://cdn.discordapp.com/attachments/840876941678084116/960190309059407942/discord.png"></img><a>
+# <a href="https://discord.gg/N4FUBaMX2b"><img style="display: flex;" src="https://cdn.discordapp.com/attachments/840876941678084116/960190509085786202/discord.png"></img><a>
