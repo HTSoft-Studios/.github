@@ -1,4 +1,4 @@
-# <img style="display: block; margin: 0 auto;" height=256px src="./circlehts.png"></img>
+# <img style="display: block; margin: 0 auto;" height=128px src="./circlehts.png"></img>
 
 ```html
 <head>
