@@ -1,4 +1,4 @@
-# <img style="display: flex;" src="https://cdn.discordapp.com/attachments/840876941678084116/960185160328953876/githubbanner.png"></img>
+# <img style="display: flex;" src="https://cdn.discordapp.com/attachments/840876941678084116/960185480874455040/githubbanner.png"></img>
 
 ```html
 <head>
