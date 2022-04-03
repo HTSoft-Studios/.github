@@ -2,7 +2,7 @@
 
 ```html
 <head>
-     <title>Welcome to the HTSoft GitHub Page! 👋</title>
+     <title>Thank you for visiting the HTSoft GitHub Page! 👋</title>
 </head>
 ```
 
