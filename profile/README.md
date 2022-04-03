@@ -16,5 +16,4 @@ Here at HTSoft the possibilities are endless.
   * We fully open source all of our projects!
   * And much more!
 
-# Join our Discord!
-https://discord.gg/Qst63njdBG
+# <a href="https://discord.gg/N4FUBaMX2b"><img style="display: flex;" width="128px" src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo-700x394.png"></img><a>
