@@ -1,3 +1,3 @@
 # Let's introduce ourselves.
 
-We're a small development agency that works on influential programs, such like ``Codename Twily`` and ``Battles of Batch``. We're into full-stack development. 
+We're a small development agency that works on influential programs, such like ``Codename Twily`` and ``Battles of Batch``. We're into full-stack development and we can't care less about making our programs as professional as we could. We make sure that we try to deliver a smooth and premium experience without waiting too long. If you're looking to contact us, be sure to contact with our business e-mail ( contact@htssoft.tk )
